@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yomarisrg" alt="yomarisrg" /></a> </p>
 
-- 🚨 I'm currently open to **work!**
+- 💻 I'm working as Full Stack Engineer!
 
 - 📚 I’m currently taking a **Full Stack Development course online.**
 
